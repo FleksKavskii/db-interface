@@ -1,0 +1,10 @@
+.collections{
+  display: flex;
+  margin: 0 -10px;
+}
+.collection-item{
+  margin: 0 10px;
+}
+.table{
+  display: flex;
+}

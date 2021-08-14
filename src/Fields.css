@@ -1,0 +1,14 @@
+.fields {
+    display: flex;
+}
+
+.fields-item {
+    height: 25px;
+    width: 250px;
+    border: 1px solid black;
+}
+.table-item{
+    height: 25px;
+    width: 250px;
+    border: 1px solid black;
+}
